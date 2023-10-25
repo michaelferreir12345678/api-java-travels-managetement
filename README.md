@@ -171,17 +171,17 @@ mvn spring-boot:run -Dspring.profiles.active=dev
 
 Este projeto foi desenvolvido com:
 
-* **Java 11 (Kit de Desenvolvimento Java - JDK: 11.0.9)**
-* **Bota Primavera 2.3.7**
-* **Cliente de administração Spring 2.3.1**
+* **Java 11 (Java Development Kit - JDK: 11.0.9)**
+* **Spring Boot 2.3.7**
+* **Spring Admin Client 2.3.1**
 * **Maven**
 * **JUnit 5**
 * **Surfire**
 * **PostgreSQL 13**
-* **Pista 6.4.4**
-* **Arrogância 3.0.0**
-* **Mapeador de Modelo 2.3.9**
+* **Flyway 6.4.4**
+* **Swagger 3.0.0**
+* **Model Mapper 2.3.9**
 * **Heroku**
 * **EhCache**
 * **Bucket4j 4.10.0**
-* **Parcializar 20.05**
+* **Partialize 20.05**
